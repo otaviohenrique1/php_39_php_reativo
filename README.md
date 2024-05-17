@@ -1,4 +1,4 @@
-# php_38_parallel
+# php_39_php_reativo
 
 Projeto do curso "PHP Parallel Processos, Threads e Channels" da Alura
 
